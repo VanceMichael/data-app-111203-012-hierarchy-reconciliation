@@ -1,6 +1,4 @@
 import math
-import statistics
-from collections import Counter
 
 
 def describe(records):
